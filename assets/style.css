@@ -1,0 +1,47 @@
+body {
+    font-family: 'Rock Salt', cursive;
+    background-image: url('https://images5.alphacoders.com/436/436855.jpg');
+    background-size: cover;
+    background-position: fixed;
+}
+
+.jumbotron {
+    font-family: 'Rock Salt', cursive;
+    background-image: url('https://images5.alphacoders.com/436/436855.jpg');
+    background-size: cover;
+    background-position: fixed;
+}
+
+
+
+
+img {
+    width: 210px;
+    height: 190px;
+   
+    
+    
+}
+
+form {
+    border: 1px, solid, black;
+}
+
+#bandButton {
+   color: black;
+}
+
+#display-button{
+    background: yellow;
+    border-radius: 23px;
+}
+
+#band-form {
+    background: yellow;
+    border-radius: 23px;
+}
+
+p {
+    background: red;
+}
+ 
